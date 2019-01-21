@@ -17,5 +17,10 @@ c) affichez votre table de routage sur la VM et expliquez chacune des lignes.<br
 Afficher la table de routage de l’hôte avec <strong>netstat -r</strong><br>
 <img src="https://github.com/Kaamainu/TP/blob/master/tablederoutageH.JPG?raw=true" alt="alt tag"><br>
 Afficher la table de routage de la VM avec <strong>route ip</strong><br>
-<img src="https://github.com/Kaamainu/TP/blob/master/tableVM.JPG?raw=true" alt="alt tag"></p>
+<img src="https://github.com/Kaamainu/TP/blob/master/tableVM.JPG?raw=true" alt="alt tag"><br>
+Faire joujou avec quelque commande:<br>
+<strong>ping</strong><br>
+<img src="https://github.com/Kaamainu/TP/blob/master/pingVM.JPG?raw=true" alt="alt tag"><br>
+<strong>Table de routage</strong><br>
+<img src="https://github.com/Kaamainu/TP/blob/master/tablederoutageH.JPG?raw=true" alt="alt tag"></p>
 
